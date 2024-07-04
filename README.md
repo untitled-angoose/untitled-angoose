@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @untitled-angoose
 - 👀 I’m interested in ... accelerator physics
-- 🌱 I’m currently learning ... Geant4-C++
+- 🌱 I’m currently learning ... Python, C++ (for Geant4)
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... a.jones36@liverpool.ac.uk
 - 😄 Pronouns: ... he/him
